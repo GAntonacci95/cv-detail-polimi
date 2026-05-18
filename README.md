@@ -2,14 +2,6 @@
 
 ## EN 🇬🇧
 
-### Polifonia Music Association - volunteering
-
-Directed the Events Team for the concerts organizational aspects concerning authorizations, promotion and resources allocation.
-
-Managed the IT Team while creating the association website which included custom ERP functionalities.
-
-Association website available [here](https://www.polifoniapolimi.it)
-
 ### M.Sc. Research Thesis
 
 The project aimed at providing a sketchy
@@ -53,25 +45,25 @@ The resulting code and demo are available [here](github.com/GAntonacci95/webular
 
 Hard skill: angular, typescript, javascript, html, and css.
 
+### Polifonia Music Association - volunteering
+
+Directed the Events Team for the concerts organizational aspects concerning authorizations, promotion and resources allocation.
+
+Managed the IT Team while creating the association website which included custom ERP functionalities.
+
+Association website available [here](https://www.polifoniapolimi.it)
+
 ### Other less significant projects
 
 - Basic tin-can telephone acoustical analysis. Soft skill: chinese whispers game, sum-product algorithm, gnutella, dependencies, proxy, vpn.
 
 ## IT 🇮🇹
 
-### Associazione Musicale Polifonia - volontariato
-
-Diretto il Team Eventi per aspetti concernenti autorizzazioni, promozione ed allocazione risorse.
-
-Gestito il Team IT durante la creazione del sito associativo con funzionalità ERP personalizzate.
-
-Association website available [here](https://www.polifoniapolimi.it)
-
 ### M.Sc. Research Thesis
 
 Bozza progettuale volta a creare un tool per la verifica d'integrità di file audio.
 
-La soluzione era composta da un flusso automatizzato per la generazione ed il versioning di dati sintetici sperimentali, estrazione di features ed il training di differento deep CNNs di cui si sono valutate le performance.
+La soluzione era composta da un flusso automatizzato per la generazione ed il versioning di dati sintetici sperimentali, estrazione di features ed il training di differenti deep CNNs di cui si sono valutate le performance.
 
 Il manoscritto risultante è disponibile [qui](https://www.politesi.polimi.it/bitstream/10589/179887/3/gabriele_antonacci_master_thesis.pdf),
 il codice ed i dettagli invece [qui](https://github.com/polimi-ispl/room_geometry_estimation) o [qui](https://github.com/GAntonacci95/room_shape_classification).
@@ -98,6 +90,14 @@ Un web-service che emula un sintetizzatore modulare con una catena audio automat
 Il codice e le demo risultanti sono disponibili [qui](github.com/GAntonacci95/webular_synth).
 
 Skill verticali: angular, typescript, javascript, html, and css.
+
+### Associazione Musicale Polifonia - volontariato
+
+Diretto il Team Eventi per aspetti concernenti autorizzazioni, promozione ed allocazione risorse.
+
+Gestito il Team IT durante la creazione del sito associativo con funzionalità ERP personalizzate.
+
+Association website available [here](https://www.polifoniapolimi.it)
 
 ### Altri progetti meno significativi
 
