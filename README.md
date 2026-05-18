@@ -71,7 +71,7 @@ Association website available [here](https://www.polifoniapolimi.it)
 
 Bozza progettuale volta a creare un tool per la verifica d'integrità di file audio.
 
-La soluzione era composta da un flusso automatizzato per la generazione ed il versioning di dati sintetici sperimentali, estrazione di features ed il training di differento deep CNNs di cui si sono valutate le performance.
+La soluzione era composta da un flusso automatizzato per la generazione ed il versioning di dati sintetici sperimentali, estrazione di features ed il training di differenti deep CNNs di cui si sono valutate le performance.
 
 Il manoscritto risultante è disponibile [qui](https://www.politesi.polimi.it/bitstream/10589/179887/3/gabriele_antonacci_master_thesis.pdf),
 il codice ed i dettagli invece [qui](https://github.com/polimi-ispl/room_geometry_estimation) o [qui](https://github.com/GAntonacci95/room_shape_classification).
