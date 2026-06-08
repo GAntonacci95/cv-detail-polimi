@@ -45,7 +45,7 @@ The resulting code and demo are available [here](https://github.com/GAntonacci95
 
 Hard skill: angular, typescript, javascript, html, and css.
 
-### Emomusic
+### EmoMusic
 
 A Spotify extension based on facial emotion recognition which plays songs from your playlists depending on your current mood.
 The resulting code is available [here](https://github.com/toboko/emomusic) or [here](https://github.com/GAntonacci95/emomusic)
@@ -96,7 +96,7 @@ Il codice e le demo risultanti sono disponibili [qui](https://github.com/GAntona
 
 Skill verticali: angular, typescript, javascript, html, and css.
 
-### Emomusic
+### EmoMusic
 
 Un'estensione spotify basata su riconoscimento facciale che esegue canzoni della tua playlist in base al tuo stato d'animo.
 Il codice risultante è disponibile [qui](https://github.com/toboko/emomusic) o [qui](https://github.com/GAntonacci95/emomusic)
