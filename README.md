@@ -41,7 +41,7 @@ Soft skill: compressor, dynamics, phase discontinuities.
 ### WebularSynth
 
 A web-service emulating a modular synthesizer with a fully automated audio processing chain based on angular, modularity, webAudio and webMIDI apis.
-The resulting code and demo are available [here](github.com/GAntonacci95/webular_synth).
+The resulting code and demo are available [here](https://github.com/GAntonacci95/webular_synth).
 
 Hard skill: angular, typescript, javascript, html, and css.
 
@@ -87,7 +87,7 @@ Skill orizzontali: compressore, dinamiche, discontinuità di fase.
 ### WebularSynth
 
 Un web-service che emula un sintetizzatore modulare con una catena audio automatizzata e basata su angular, modulare ed utilizzante webAudio and webMIDI apis.
-Il codice e le demo risultanti sono disponibili [qui](github.com/GAntonacci95/webular_synth).
+Il codice e le demo risultanti sono disponibili [qui](https://github.com/GAntonacci95/webular_synth).
 
 Skill verticali: angular, typescript, javascript, html, and css.
 
