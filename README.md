@@ -45,6 +45,11 @@ The resulting code and demo are available [here](https://github.com/GAntonacci95
 
 Hard skill: angular, typescript, javascript, html, and css.
 
+### Emomusic
+
+A Spotify extension based on facial emotion recognition which plays songs from your playlists depending on your current mood.
+The resulting code is available [here](https://github.com/toboko/emomusic) or [here](https://github.com/GAntonacci95/emomusic)
+
 ### Polifonia Music Association - volunteering
 
 Directed the Events Team for the concerts organizational aspects concerning authorizations, promotion and resources allocation.
@@ -90,6 +95,11 @@ Un web-service che emula un sintetizzatore modulare con una catena audio automat
 Il codice e le demo risultanti sono disponibili [qui](https://github.com/GAntonacci95/webular_synth).
 
 Skill verticali: angular, typescript, javascript, html, and css.
+
+### Emomusic
+
+Un'estensione spotify basata su riconoscimento facciale che esegue canzoni della tua playlist in base al tuo stato d'animo.
+Il codice risultante è disponibile [qui](https://github.com/toboko/emomusic) o [qui](https://github.com/GAntonacci95/emomusic)
 
 ### Associazione Musicale Polifonia - volontariato
 
