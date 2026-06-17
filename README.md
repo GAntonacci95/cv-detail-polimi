@@ -60,7 +60,7 @@ Association website available [here](https://www.polifoniapolimi.it)
 
 ### Other less significant projects
 
-- Basic tin-can telephone acoustical analysis. Soft skill: chinese whispers game, sum-product algorithm, gnutella, dependencies, proxy, vpn.
+- Basic tin-can telephone acoustical analysis. Soft skill: chinese whispers game, sum-product algorithm, gnutella, spf, dependencies, proxy, vpn.
 
 ## IT 🇮🇹
 
@@ -111,4 +111,4 @@ Association website available [here](https://www.polifoniapolimi.it)
 
 ### Altri progetti meno significativi
 
-- Analisi basilare del fonobarattolo. Soft skill: telefono senza fili, algoritmo somma-prodotto, gnutella, dipendenze, intermediari, vpn.
+- Analisi basilare del fonobarattolo. Soft skill: telefono senza fili, algoritmo somma-prodotto, gnutella, spf, dipendenze, intermediari, vpn.
