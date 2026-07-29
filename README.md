@@ -23,6 +23,8 @@ attention, explainability.
 
 Soft skill: investigative creativity.
 
+supervisor: Fabio Antonacci, opponent: Paolo Bestagini
+
 ### JuicyWhammy
 
 A C++ VST-3 plug-in performing pitch
@@ -64,7 +66,7 @@ Association website available [here](https://www.polifoniapolimi.it)
 
 ## IT 🇮🇹
 
-### M.Sc. Research Thesis
+### Tesi di Laurea Magistrale
 
 Bozza progettuale volta a creare un tool per la verifica d'integrità di file audio.
 
@@ -78,6 +80,8 @@ librosa, numpy, scipy, tensorflow-gpu,
 keras, tuning di architettura nn tramite algoritmi genetici, layer di attenzione, spiegabilità.
 
 Skill orizzontali: creatività investigativa.
+
+relatore: Fabio Antonacci, avversario: Paolo Bestagini
 
 ### JuicyWhammy
 
