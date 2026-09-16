@@ -19,7 +19,7 @@ and reproducibility, pyroomacoustics,
 librosa, numpy, scipy, tensorflow-gpu,
 keras, nn architectural
 tuning via evolutionary algorithms,
-attention, explainability.
+attention networks, explainability.
 
 Soft skill: investigative creativity.
 
@@ -77,7 +77,7 @@ il codice ed i dettagli invece [qui](https://github.com/polimi-ispl/room_geometr
 
 Skill verticali: python, wandb, tracciamento sperimentale per riproducibilità, pyroomacoustics,
 librosa, numpy, scipy, tensorflow-gpu,
-keras, tuning di architettura nn tramite algoritmi genetici, layer di attenzione, spiegabilità.
+keras, tuning di architettura nn tramite algoritmi genetici, reti di attenzione, spiegabilità.
 
 Skill orizzontali: creatività investigativa.
 
