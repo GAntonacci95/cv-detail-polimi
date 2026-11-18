@@ -23,7 +23,7 @@ attention networks, explainability.
 
 Soft skill: investigative creativity.
 
-supervisor: Fabio Antonacci, opponent: Paolo Bestagini
+supervisor: Fabio Antonacci (fabio.antonacci@polimi.it), opponent: Paolo Bestagini (paolo.bestagini@polimi.it)
 
 ### JuicyWhammy
 
@@ -83,7 +83,7 @@ keras, tuning di architettura nn tramite algoritmi genetici, reti di attenzione,
 
 Skill orizzontali: creatività investigativa.
 
-relatore: Fabio Antonacci, avversario: Paolo Bestagini
+relatore: Fabio Antonacci (fabio.antonacci@polimi.it), avversario: Paolo Bestagini (paolo.bestagini@polimi.it)
 
 ### JuicyWhammy
 
